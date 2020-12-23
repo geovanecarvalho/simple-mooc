@@ -1,0 +1,6 @@
+.simple-mooc
+.env
+.idea
+*.sqlite3
+*pyc
+__pycache__
